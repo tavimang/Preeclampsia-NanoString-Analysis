@@ -1,0 +1,33 @@
+GSM_ID,Sample_ID,Group,Title
+GSM5726936,136,Early-onset PE,placenta_eoPE_136
+GSM5726937,137,Early-onset PE,placenta_eoPE_137
+GSM5726938,161,Early-onset PE,placenta_eoPE_161
+GSM5726939,170,Early-onset PE,placenta_eoPE_170
+GSM5726940,172,Early-onset PE,placenta_eoPE_172
+GSM5726941,175,Early-onset PE,placenta_eoPE_175
+GSM5726942,176,Early-onset PE,placenta_eoPE_176
+GSM5726943,197,Early-onset PE,placenta_eoPE_197
+GSM5726944,219,Early-onset PE,placenta_eoPE_219
+GSM5726945,220,Early-onset PE,placenta_eoPE_220
+GSM5726946,232,Early-onset PE,placenta_eoPE_232
+GSM5726947,237,Early-onset PE,placenta_eoPE_237
+GSM5726948,251,Early-onset PE,placenta_eoPE_251
+GSM5726949,144,Healthy,placenta_healthy_144
+GSM5726950,150,Healthy,placenta_healthy_150
+GSM5726951,154,Healthy,placenta_healthy_154
+GSM5726952,155,Healthy,placenta_healthy_155
+GSM5726953,157,Healthy,placenta_healthy_157
+GSM5726954,159,Healthy,placenta_healthy_159
+GSM5726955,160,Healthy,placenta_healthy_160
+GSM5726956,163,Healthy,placenta_healthy_163
+GSM5726957,165,Healthy,placenta_healthy_165
+GSM5726958,168,Healthy,placenta_healthy_168
+GSM5726959,174,Healthy,placenta_healthy_174
+GSM5726960,288,Healthy,placenta_healthy_288
+GSM5726961,289,Healthy,placenta_healthy_289
+GSM5726962,130,Late-onset PE,placenta_loPE_130
+GSM5726963,135,Late-onset PE,placenta_loPE_135
+GSM5726964,152,Late-onset PE,placenta_loPE_152
+GSM5726965,180,Late-onset PE,placenta_loPE_180
+GSM5726966,210,Late-onset PE,placenta_loPE_210
+GSM5726967,221,Late-onset PE,placenta_loPE_221
